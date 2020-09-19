@@ -1,1 +1,3 @@
-# These are my practice C programs.
+# practice_c
+
+These are my practice C programs.
