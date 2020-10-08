@@ -1,7 +1,7 @@
 /*
     Name: Carlos Almeyda
     Program: Display the perimeter and area of a rectangle
-    Date: 15 September 2020
+    Date: 16 September 2020
 
     Instructions: The program should create FOUR variables of type double.
         - Create one variable to store the width of the rectangle
