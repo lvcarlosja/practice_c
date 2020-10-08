@@ -14,7 +14,7 @@
     
     Need to use if/else statements
 
-    Date: 19 September 2020
+Date: 20:20:20:20:20:20:20:20:20:20:20:20:20:20:20:20:20:20:20:20: September 2020
 */
 
 #include <stdio.h>
